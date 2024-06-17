@@ -1,0 +1,263 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+h1,h2,h3,h4,p,ul,li {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+.logo {
+    width: 10%;
+}
+header {
+    padding: 10px 50px;
+    background: #000000;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.menu i:after {
+    content: '';
+    position: absolute;
+    width: 12px;
+    bottom: -9px;
+    height: 2px;
+    background: white;
+    left: 5px;
+}
+.menu i:before {
+    content: '';
+    position: absolute;
+    width: 30px;
+    height: 2px;
+    background: white;
+    top: -8px;
+    left: -5px;
+}
+.menu i {
+    width: 20px;
+    position: absolute;
+    height: 2px;
+    background: white;
+    top: 11px;
+    left: 5px;
+}
+.menu {
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    position: relative;
+}
+main h1 {
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: solid 2px #e1e1e1;
+}
+main {
+    padding: 0px 50px;
+}
+.right p {
+    color: white;
+    font-size: 12px;
+    margin-right: 10px;
+}
+.right {
+    display: flex;
+    align-items: center;
+}
+.listCanchas li {
+    background: #ffffff;
+    margin-bottom: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: black;
+    
+}
+  
+.fen{
+    width: 5%;
+    border-radius: 100%;
+    border: 2px solid #000000;
+    padding: 2px;
+    margin-right: 10px;
+}
+
+.pokimg{
+    width: 30%;
+}
+
+.showpoke{
+    display: flex;
+    flex-direction: row;
+    font-size: 10px;
+}
+
+.contebtn{
+    margin-top: 5px;
+    display: flex;
+    flex-direction: row;
+}
+
+.imgbtn, .imgbtn2{
+    width: 10%;
+}
+
+.poke-button{
+    width: 20%;
+    height: 4.5%;
+    display: flex;
+    flex-direction:row;
+    font-size: 15px;
+    border-radius: 6px;
+    border: 1.5px solid #000000;
+    margin-bottom: 2px;
+    margin-right: 3.5px;
+}
+
+.poke-button-text{
+    padding-top: 1.1%;
+    margin-left: 2px;
+    font-weight: bold;
+}
+
+.lipr{
+    box-shadow: 0px 3px 6px #afafaf;
+    box-sizing: border-box;
+}
+
+.cardpoke, li .cardpoke{
+    background: #333333;
+    text-align: center;
+    color: white;
+    margin-top: 2.5px;
+    margin-left: 2px;
+    flex-direction: column;
+    text-align: center;
+}
+
+.nompoke{
+    display:flex;
+    margin-top: 2px;
+    font-size: 16px;
+    padding: 1px;
+}
+
+.cont-id{
+    font-size: 25px;
+   margin-bottom: 3px;
+   display: flex;
+   flex-direction: column;
+   font-weight: 800;
+}
+
+.info{
+    display: flex;
+    flex-direction: row;
+}
+
+.infopk{
+    display: flex;
+    flex-direction: column;
+    background: black ;
+    width:100%;
+    border-radius: 5px;
+}
+
+.add-combat-button {
+    cursor: pointer;
+    width: 20%;
+    height: 4.5%;
+    display: flex;
+    flex-direction:row;
+    font-size: 15px;
+    border-radius: 6px;
+    border: 1.5px solid #000000;
+}
+.add-combat-button:hover {
+    background-color: #d0431e;
+}
+
+.poke-button:hover{
+background-color: black;
+color: white;
+}
+
+
+.modal-content h3 {
+    margin-top: 0;
+}
+
+.modal-content ul {
+    list-style-type: none;
+    padding-left: 0;
+    margin-bottom: 10px;
+}
+
+.modal-content button {
+    align-self: center;
+}
+
+.modal {
+    position: fixed;
+    top: 78%;
+    left: 75%;
+    transform: translate(-50%, -20%);
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    border: 1.5px solid black;
+    border-radius: 15px;
+    box-shadow: 0px 3px 6px #afafaf;
+    box-sizing: border-box;
+}
+
+.modal-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.btnwar{
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 6px;
+    font-size: 16px;
+    margin-left: 50%;
+    margin-top: 5px;
+
+}
+
+.btnwar:hover{
+
+    color: white;
+    background: black;
+}
+
+.combatinfo{
+    display: flex;
+    flex-direction: row;
+}
+
+.e1, .e2{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    height: 50%;
+}
+
+.ent{
+    width: 30%;
+    border: 1px solid black;
+    border-radius:  100%;
+    background: black;
+}
+

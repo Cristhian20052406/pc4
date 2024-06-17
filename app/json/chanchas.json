@@ -1,0 +1,484 @@
+
+[
+    {
+        "id":"001",
+        "nombre": "Droxon",
+        "foto": "imagenes/hombre.png",
+        "pokemons": [
+            {
+                "nombre": "Vinnasor",
+                "tipo": "Planta",
+                "foto": "imagenes/vinnasor.png"
+            },
+            {
+                "nombre": "Eevee",
+                "tipo": "Normal",
+                "foto": "imagenes/eevee.png"
+            },
+            {
+                "nombre": "Blastoise",
+                "tipo": "Agua",
+                "foto": "imagenes/blastoise.png"
+            },
+            {
+                "nombre": "Arcanine",
+                "tipo": "Fuego",
+                "foto": "imagenes/arcanine.png"
+            },
+            {
+                "nombre": "Alakazam",
+                "tipo": "Psíquico",
+                "foto": "imagenes/alakazam.png"
+            }
+        ]
+    },
+    {
+        "id":"002",
+        "nombre": "Sharon",
+        "foto": "imagenes/mujer.png",
+        "pokemons": [
+            {
+                "nombre": "Charizard",
+                "tipo": "Fuego",
+                "foto": "imagenes/charizard.png"
+            },
+            {
+                "nombre": "Pikachu",
+                "tipo": "Electrico",
+                "foto": "imagenes/pikachu.png"
+            },
+            {
+                "nombre": "Bulbasaur",
+                "tipo": "Planta",
+                "foto": "imagenes/bulbasaur.png"
+            },
+            {
+                "nombre": "Squirtle",
+                "tipo": "Agua",
+                "foto": "imagenes/squirtle.png"
+            },
+            {
+                "nombre": "Snorlax",
+                "tipo": "Normal",
+                "foto": "imagenes/snorlax.png"
+            }
+        ]
+    },
+    {
+        "id":"003",
+        "nombre": "Miguel",
+        "foto": "imagenes/hombre.png",
+        "pokemons": [
+            {
+                "nombre": "Starmie",
+                "tipo": "Agua",
+                "foto": "imagenes/starmie.png"
+            },
+            {
+                "nombre": "Vaporeon",
+                "tipo": "Agua",
+                "foto": "imagenes/vaporeon.png"
+            },
+            {
+                "nombre": "Golduck",
+                "tipo": "Agua",
+                "foto": "imagenes/golduck.png"
+            },
+            {
+                "nombre": "Lapras",
+                "tipo": "Agua",
+                "foto": "imagenes/lapras.png"
+            },
+            {
+                "nombre": "Gyarados",
+                "tipo": "Agua",
+                "foto": "imagenes/gyarados.png"
+            }
+        ]
+    },
+    {
+        "id":"004",
+        "nombre": "Marcial",
+        "foto": "imagenes/hombre.png",
+        "pokemons": [
+            {
+                "nombre": "Onix",
+                "tipo": "Roca",
+                "foto": "imagenes/onix.png"
+            },
+            {
+                "nombre": "Geodude",
+                "tipo": "Roca",
+                "foto": "imagenes/geodude.png"
+            },
+            {
+                "nombre": "Graveler",
+                "tipo": "Roca",
+                "foto": "imagenes/graveler.png"
+            },
+            {
+                "nombre": "Golem",
+                "tipo": "Roca",
+                "foto": "imagenes/golem.png"
+            },
+            {
+                "nombre": "Vulpix",
+                "tipo": "Fuego",
+                "foto": "imagenes/vulpix.png"
+            }
+        ]
+    },
+    {
+        "id":"005",
+        "nombre": "Juan",
+        "foto": "imagenes/hombre.png",
+        "pokemons": [
+            {
+                "nombre": "Vinnasor",
+                "tipo": "Planta",
+                "foto": "imagenes/vinnasor.png"
+            },
+            {
+                "nombre": "Eevee",
+                "tipo": "Normal",
+                "foto": "imagenes/eevee.png"
+            },
+            {
+                "nombre": "Blastoise",
+                "tipo": "Agua",
+                "foto": "imagenes/blastoise.png"
+            },
+            {
+                "nombre": "Arcanine",
+                "tipo": "Fuego",
+                "foto": "imagenes/arcanine.png"
+            },
+            {
+                "nombre": "Alakazam",
+                "tipo": "Psíquico",
+                "foto": "imagenes/alakazam.png"
+            }
+        ]
+    },
+    {
+        "id":"006",
+        "nombre": "Helene",
+        "foto": "imagenes/mujer.png",
+        "pokemons": [
+            {
+                "nombre": "Charizard",
+                "tipo": "Fuego",
+                "foto": "imagenes/charizard.png"
+            },
+            {
+                "nombre": "Pikachu",
+                "tipo": "Electrico",
+                "foto": "imagenes/pikachu.png"
+            },
+            {
+                "nombre": "Bulbasaur",
+                "tipo": "Planta",
+                "foto": "imagenes/bulbasaur.png"
+            },
+            {
+                "nombre": "Squirtle",
+                "tipo": "Agua",
+                "foto": "imagenes/squirtle.png"
+            },
+            {
+                "nombre": "Snorlax",
+                "tipo": "Normal",
+                "foto": "imagenes/snorlax.png"
+            }
+        ]
+    },
+    {
+        "id":"007",
+        "foto": "imagenes/hombre.png",
+        "nombre": "Angel",
+        "pokemons": [
+            {
+                "nombre": "Starmie",
+                "tipo": "Agua",
+                "foto": "imagenes/starmie.png"
+            },
+            {
+                "nombre": "Vaporeon",
+                "tipo": "Agua",
+                "foto": "imagenes/vaporeon.png"
+            },
+            {
+                "nombre": "Golduck",
+                "tipo": "Agua",
+                "foto": "imagenes/golduck.png"
+            },
+            {
+                "nombre": "Lapras",
+                "tipo": "Agua",
+                "foto": "imagenes/lapras.png"
+            },
+            {
+                "nombre": "Gyarados",
+                "tipo": "Agua",
+                "foto": "imagenes/gyarados.png"
+            }
+        ]
+    },
+    {
+        "id":"008",
+        "nombre": "Octavio",
+        "foto": "imagenes/hombre.png",
+        "pokemons": [
+            {
+                "nombre": "Onix",
+                "tipo": "Roca",
+                "foto": "imagenes/onix.png"
+            },
+            {
+                "nombre": "Geodude",
+                "tipo": "Roca",
+                "foto": "imagenes/geodude.png"
+            },
+            {
+                "nombre": "Graveler",
+                "tipo": "Roca",
+                "foto": "imagenes/graveler.png"
+            },
+            {
+                "nombre": "Golem",
+                "tipo": "Roca",
+                "foto": "imagenes/golem.png"
+            },
+            {
+                "nombre": "Vulpix",
+                "tipo": "Fuego",
+                "foto": "imagenes/vulpix.png"
+            }
+        ]
+    },
+    {
+        "id":"009",
+        "nombre": "Estrella",
+        "foto": "imagenes/mujer.png",
+        "pokemons": [
+            {
+                "nombre": "Charizard",
+                "tipo": "Fuego",
+                "foto": "imagenes/charizard.png"
+            },
+            {
+                "nombre": "Pikachu",
+                "tipo": "Electrico",
+                "foto": "imagenes/pikachu.png"
+            },
+            {
+                "nombre": "Bulbasaur",
+                "tipo": "Planta",
+                "foto": "imagenes/bulbasaur.png"
+            },
+            {
+                "nombre": "Squirtle",
+                "tipo": "Agua",
+                "foto": "imagenes/squirtle.png"
+            },
+            {
+                "nombre": "Snorlax",
+                "tipo": "Normal",
+                "foto": "imagenes/snorlax.png"
+            }
+        ]
+    },
+    {
+        "id":"010",
+        "nombre": "Laura",
+        "foto": "imagenes/hombre.png",
+        "pokemons": [
+            {
+                "nombre": "Starmie",
+                "tipo": "Agua",
+                "foto": "imagenes/starmie.png"
+            },
+            {
+                "nombre": "Vaporeon",
+                "tipo": "Agua",
+                "foto": "imagenes/vaporeon.png"
+            },
+            {
+                "nombre": "Golduck",
+                "tipo": "Agua",
+                "foto": "imagenes/golduck.png"
+            },
+            {
+                "nombre": "Lapras",
+                "tipo": "Agua",
+                "foto": "imagenes/lapras.png"
+            },
+            {
+                "nombre": "Gyarados",
+                "tipo": "agua",
+                "foto": "imagenes/gyarados.png"
+            }
+        ]
+    },
+    {
+        "id":"011",
+        "nombre": "Roberth",
+        "foto": "imagenes/hombre.png",
+        "pokemons": [
+            {
+                "nombre": "Onix",
+                "tipo": "Roca",
+                "foto": "imagenes/onix.png"
+            },
+            {
+                "nombre": "Geodude",
+                "tipo": "Roca",
+                "foto": "imagenes/geodude.png"
+            },
+            {
+                "nombre": "Graveler",
+                "tipo": "Roca",
+                "foto": "imagenes/graveler.png"
+            },
+            {
+                "nombre": "Golem",
+                "tipo": "Roca",
+                "foto": "imagenes/golem.png"
+            },
+            {
+                "nombre": "Vulpix",
+                "tipo": "Fuego",
+                "foto": "imagenes/vulpix.png"
+            }
+        ]
+    },
+    {
+        "id":"012",
+        "nombre": "Alexander",
+        "foto": "imagenes/hombre.png",
+        "pokemons": [
+            {
+                "nombre": "Charizard",
+                "tipo": "Fuego",
+                "foto": "imagenes/charizard.png"
+            },
+            {
+                "nombre": "Pikachu",
+                "tipo": "Electrico",
+                "foto": "imagenes/pikachu.png"
+            },
+            {
+                "nombre": "Bulbasaur",
+                "tipo": "Planta",
+                "foto": "imagenes/bulbasaur.png"
+            },
+            {
+                "nombre": "Squirtle",
+                "tipo": "Agua",
+                "foto": "imagenes/squirtle.png"
+            },
+            {
+                "nombre": "Snorlax",
+                "tipo": "Normal",
+                "foto": "imagenes/snorlax.png"
+            }
+        ]
+    },
+    {
+        "id":"013",
+        "nombre": "Lincon",
+        "foto": "imagenes/hombre.png",
+        "pokemons": [
+            {
+                "nombre": "Starmie",
+                "tipo": "Agua",
+                "foto": "imagenes/starmie.png"
+            },
+            {
+                "nombre": "Vaporeon",
+                "tipo": "Agua",
+                "foto": "imagenes/vaporeon.png"
+            },
+            {
+                "nombre": "Golduck",
+                "tipo": "Agua",
+                "foto": "imagenes/golduck.png"
+            },
+            {
+                "nombre": "Lapras",
+                "tipo": "Agua",
+                "foto": "imagenes/lapras.png"
+            },
+            {
+                "nombre": "Gyarados",
+                "tipo": "Agua",
+                "foto": "imagenes/gyarados.png"
+            }
+        ]
+    },
+    {
+        "id":"014",
+        "nombre": "Carlos",
+        "foto": "imagenes/hombre.png",
+        "pokemons": [
+            {
+                "nombre": "Onix",
+                "tipo": "Roca",
+                "foto": "imagenes/onix.png"
+            },
+            {
+                "nombre": "Geodude",
+                "tipo": "Roca",
+                "foto": "imagenes/geodude.png"
+            },
+            {
+                "nombre": "Graveler",
+                "tipo": "Roca",
+                "foto": "imagenes/graveler.png"
+            },
+            {
+                "nombre": "Golem",
+                "tipo": "Roca",
+                "foto": "imagenes/golem.png"
+            },
+            {
+                "nombre": "Vulpix",
+                "tipo": "Fuego",
+                "foto": "imagenes/vulpix.png"
+            }
+        ]
+    },
+    {
+        "id":"015",
+        "nombre": "Junior",
+        "foto": "imagenes/hombre.png",
+        "pokemons": [
+            {
+                "nombre": "Onix",
+                "tipo": "Roca",
+                "foto": "imagenes/onix.png"
+            },
+            {
+                "nombre": "Geodude",
+                "tipo": "Roca",
+                "foto": "imagenes/geodude.png"
+            },
+            {
+                "nombre": "Graveler",
+                "tipo": "Roca",
+                "foto": "imagenes/graveler.png"
+            },
+            {
+                "nombre": "Golem",
+                "tipo": "Roca",
+                "foto": "imagenes/golem.png"
+            },
+            {
+                "nombre": "Vulpix",
+                "tipo": "Fuego",
+                "foto": "imagenes/vulpix.png"
+            }
+        ]
+    }
+]
+
